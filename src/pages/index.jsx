@@ -1,9 +1,9 @@
+import PageWrapper from "@/components/PageWrapper";
 
 
 export default function Home(){
   return (
-    <div className="">
-      <p>home</p>
-    </div>
+    PageWrapper
+  
   )
 }
